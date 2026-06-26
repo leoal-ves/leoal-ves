@@ -1,4 +1,4 @@
-# Olá, eu sou Leonardo Alves 👋
+<div align="center"> Olá! Bem vindo, Sou Leonardo Alves 👋​👋</div>
 
 ## Sobre mim
 
@@ -20,23 +20,27 @@ Atualmente busco oportunidades para continuar evoluindo na área de Quality Assu
 ## Tecnologias e Ferramentas
 
 ### Automação
+
 - Selenium
 - Appium
 - TestComplete
 - Cypress (básico)
 
 ### Linguagens
+
 - C#
 - Java
 - SQL
 
 ### Gerenciamento e Qualidade
-- Azure DevOps
-- Jira
-- Git
-- GitHub
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=20/> Azure DevOps
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width=20/> Jira
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=20/> GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width=20/> GitHub
 
 ### Banco de Dados
+
 - MySQL
 - SQL Server
 
@@ -53,9 +57,11 @@ Atualmente busco oportunidades para continuar evoluindo na área de Quality Assu
 ## Projetos
 
 ### Sistema Cliente-Servidor em Java
+
 Aplicação desenvolvida utilizando Java, JavaFX, JSON, Socket TCP e MySQL, seguindo o padrão MVC.
 
 ### Automação de Testes
+
 Projetos focados em automação de interfaces web, APIs e aplicações mobile utilizando Selenium, Appium e TestComplete.
 
 ## Formação
