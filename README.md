@@ -10,9 +10,10 @@ Atualmente busco oportunidades para continuar evoluindo na área de QA, contribu
 
 ### Tecnologias Utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original-wordmark.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=40/>
-<img src="https://pcloudyprod-engpgtajd7c4g9a8.a03.azurefd.net/wp-content/uploads/2024/09/Appium-logo.png" width=100/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=40/>
-          
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original-wordmark.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=40/>
+<img src="https://pcloudyprod-engpgtajd7c4g9a8.a03.azurefd.net/wp-content/uploads/2024/09/Appium-logo.png" width=100/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=40/></div>
+
 
 ## Experiência
 
@@ -75,10 +76,10 @@ Projetos focados em automação de interfaces web, APIs e aplicações mobile ut
 
 ## Formação
 
-🎓 Análise e Desenvolvimento de Sistemas - UTFPR 
+🎓 Análise e Desenvolvimento de Sistemas - UTFPR
 
+## <div align="center">Contatos</div>
 
-##  <div align="center">Contatos</div>
 <div align="center">
 <a href="malito:leoal_ves@hotmail.com"><img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" width=60/>
  <a href="https://www.linkedin.com/in/alves-leonardot/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" width=60></a></div>
